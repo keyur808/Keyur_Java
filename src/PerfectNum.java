@@ -5,7 +5,7 @@ public class PerfectNum
 
     public static void main(String[] args)
     {
-        int n = 16;
+        int n = 28;
         boolean b = isPerfect(n);
         if(b)
             System.out.println("Its a perfect Number");

@@ -28,7 +28,7 @@ public class PrimeNumber {
 }
 
 */
-        int n = 3;
+        int n = 115;
         boolean b = isPrime(n);
         if (b)
             System.out.println("Its a Prime number.");
